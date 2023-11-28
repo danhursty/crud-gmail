@@ -1,5 +1,5 @@
-# Flyx
+# Gmail Housekeeping
 
 ## Project Description
 
-Clean up you gmails.
+Clean up your gmail.
